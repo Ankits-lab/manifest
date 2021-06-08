@@ -21,7 +21,7 @@ Credits:
 
 To initialize your local repository, use a command like this:
 ```bash
-repo init -u https://github.com/HyconOS/manifest -b eleven
+repo init -u https://github.com/HyconOS/manifest -b eleven-gsi
 ```
 
 ### Then to sync up: ###
